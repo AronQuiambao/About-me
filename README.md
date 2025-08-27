@@ -27,7 +27,7 @@ I'm **21 Years Old**
 About me will be updated in the future, so have a picture of this cat I found:
 
 <p align="center">
-  <img src="./assets/cat.png" alt="A cool cat I found" width="400" />
+  <img src="cat.png" alt="Cat Image" width="300">
 </p>
 
 ---
