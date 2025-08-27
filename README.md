@@ -23,8 +23,8 @@ I'm **21 Years Old**
 
 ---
 
-## <DISCLAIMER>
-About me will be updated in the future, so have a picture of this cat I found:
+## >DISCLAIMER<
+About me will be updated more in the future, so have a picture of this cat I found:
 
 <p align="center">
   <img src="cat.png" alt="Cat Image" width="300">
