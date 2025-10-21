@@ -26,11 +26,23 @@ I enjoy discovery something new, trying something new and changing for the new.
 ---
 
 ## 🐾 PROJECT LINKS
-Currently no projects to showcase, but here’s a cat that I found outside:  
+Here are my Midterm Lab Tasks:
+
+- **[Midterms Lab Task 1](https://github.com/yourusername/Midterms-Lab-Task-1)**
+- **[Midterms Lab Task 2](https://github.com/yourusername/Midterms-Lab-Task-2)**
+- **[Midterms Lab Task 3](https://github.com/yourusername/Midterms-Lab-Task-3)**
+- **[Midterms Lab Task 4](https://github.com/yourusername/Midterms-Lab-Task-4)**
+- **[Midterms Lab Task 5](https://github.com/yourusername/Midterms-Lab-Task-5)**
+- **[Midterms Lab Task 6](https://github.com/yourusername/Midterms-Lab-Task-6)**
+
+---
+
+And here’s a friend I found outside:  
 
 <p align="center">
   <img src="asset/the cat.png" alt="A cat I found" width="300">
 </p>
+
 
 ---
 
