@@ -37,7 +37,7 @@ Here are my Midterm Lab Tasks:
 
 ---
 
-And here’s a friend I found outside:  
+And here is a cat that I found outside:  
 
 <p align="center">
   <img src="asset/the cat.png" alt="A cat I found" width="300">
