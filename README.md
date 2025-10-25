@@ -10,7 +10,7 @@
   <img src="asset/me.png" alt="My Picture" width="200" style="border-radius: 50%;">
 </p>
 
-Hi! I'm **Quiambao, Aron Daniel B.**, a chill developer, laid back but still competitive programer who is passionate on learning new technologies.  
+Hi! I'm **Aron Daniel B. Quiambao**, a chill developer, laid back but still competitive programer who is passionate on learning new technologies.  
 I enjoy discovery something new, trying something new and changing for the new.
 
 ---
