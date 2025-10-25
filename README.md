@@ -29,11 +29,11 @@ I enjoy discovery something new, trying something new and changing for the new.
 Here are my Midterm Lab Tasks:
 
 - **[Midterms Lab Task 1](https://aronquiambao.github.io/Midterm-Lab-Task-1/)**
-- **[Midterms Lab Task 2](https://github.com/yourusername/Midterms-Lab-Task-2)**
-- **[Midterms Lab Task 3](https://github.com/yourusername/Midterms-Lab-Task-3)**
-- **[Midterms Lab Task 4](https://github.com/yourusername/Midterms-Lab-Task-4)**
-- **[Midterms Lab Task 5](https://github.com/yourusername/Midterms-Lab-Task-5)**
-- **[Midterms Lab Task 6](https://github.com/yourusername/Midterms-Lab-Task-6)**
+- **[Midterms Lab Task 2](https://aronquiambao.github.io/Midterm-Lab-Task-2/)**
+- **[Midterms Lab Task 3](https://aronquiambao.github.io/Midterm-Lab-Task-3/)**
+- **[Midterms Lab Task 4](https://aronquiambao.github.io/Midterm-Lab-Task-4/)**
+- **[Midterms Lab Task 5](https://aronquiambao.github.io/Midterm-Lab-Task-5/)**
+- **[Midterms Lab Task 6](https://aronquiambao.github.io/Midterm-Lab-Task-6/)**
 
 ---
 
