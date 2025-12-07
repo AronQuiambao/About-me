@@ -45,7 +45,7 @@ Here are all my **Finals Laboratory Tasks**:
 4. **[Finals Lab Task 4](https://aronquiambao.github.io/Finals-Lab-Task-4/)**
 5. **[Finals Lab Task 5](https://aronquiambao.github.io/Finals-Lab-Task-5/)**
 6. **[Finals Lab Task 6](https://aronquiambao.github.io/Finals-Lab-Task-6/)**
-7. **[Finals Lab Task 7](https://username.github.io/Finals-Task-7/)**
+7. **[Finals Lab Task 7](https://aronquiambao.github.io/Finals-Lab-Task-7/)**
 
 ---
 
