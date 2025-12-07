@@ -39,13 +39,13 @@ Here are my Midterm Lab Tasks:
 
 Here are all my **Finals Laboratory Tasks**:
 
-1. **[Finals Lab Task 1](https://aronquiambao.github.io/Finals-Lab-Task-1/)**
-2. **[Finals Lab Task 2](https://aronquiambao.github.io/Finals-Lab-Task-2/)**
-3. **[Finals Lab Task 3](https://aronquiambao.github.io/Finals-Lab-Task-3/)**
-4. **[Finals Lab Task 4](https://aronquiambao.github.io/Finals-Lab-Task-4/)**
-5. **[Finals Lab Task 5](https://aronquiambao.github.io/Finals-Lab-Task-5/)**
-6. **[Finals Lab Task 6](https://aronquiambao.github.io/Finals-Lab-Task-6/)**
-7. **[Finals Lab Task 7](https://aronquiambao.github.io/Finals-Lab-Task-7/)**
+- **[Finals Lab Task 1](https://aronquiambao.github.io/Finals-Lab-Task-1/)**
+- **[Finals Lab Task 2](https://aronquiambao.github.io/Finals-Lab-Task-2/)**
+- **[Finals Lab Task 3](https://aronquiambao.github.io/Finals-Lab-Task-3/)**
+- **[Finals Lab Task 4](https://aronquiambao.github.io/Finals-Lab-Task-4/)**
+- **[Finals Lab Task 5](https://aronquiambao.github.io/Finals-Lab-Task-5/)**
+- **[Finals Lab Task 6](https://aronquiambao.github.io/Finals-Lab-Task-6/)**
+- **[Finals Lab Task 7](https://aronquiambao.github.io/Finals-Lab-Task-7/)**
 
 ---
 
